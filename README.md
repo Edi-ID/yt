@@ -2,8 +2,8 @@
 
 ***How to use it please type this command word in Termux!***
 
-***`$ pkg install git`***<br>
-***`$ pkg install python`***<br>
+***`$ apt install git`***<br>
+***`$ apt install python`***<br>
 ***`$ git clone https://github.com/Edi-ID/yt.git`***<br>
 ***`$ cd yt`***<br>
 
